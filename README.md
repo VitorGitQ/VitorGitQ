@@ -9,8 +9,7 @@
 </div>
 
 #
-<div> 
- <a href="537977098246160405" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<div>
  <a href="https://www.linkedin.com/in/vitor-queiroz-nunes-18319b278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
