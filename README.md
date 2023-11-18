@@ -1,4 +1,4 @@
-<img align="center" width="100%"  src="" alt="Imagem">
+
 
 # Hello World... </br> Vitor Queiroz aqui ✌
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=htppsvitor&show_icons=true&theme=gotham)
