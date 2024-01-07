@@ -7,7 +7,7 @@ Desenvolvedor Frontend e futuramente desenvolvedor Full-Stack. Trabalho no desen
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=htppsvitor&show_icons=true&theme=gotham)
 
 
-## Tecnologias
+## ⚙️Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,7 +17,7 @@ Desenvolvedor Frontend e futuramente desenvolvedor Full-Stack. Trabalho no desen
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-## Contatos
+## 📱Contatos
 <div>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-queiroz-nunes-18319b278/")
