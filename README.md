@@ -10,7 +10,7 @@
 
 ## 👨🏽‍💻Sobre Mim
 <div displey="flex" height="100" width="100">
-  <p >Desenvolvedor Frontend e futuramente desenvolvedor Full-Stack. Trabalho no desenvolvimento de sites responsivos, interativos, dinâmicos e funcionais, tendo como base na construção desses sites tecnologias como JavaScript, CSS, HTML, Bootstrap, Git, GitHub e Figma. Sempre correndo atrás de novos aprendizados, aprimoramento e tecnologias, pois sei que estou apenas no começo e que tenho um longo caminho a percorrer para alcançar minha primeira experiencia e conseguir mostrar todo meu potencial. Então no momento estou em busca de mostra todo o meu desenvolvimento nesse processo.</p>
+  <p >Desenvolvedor Frontend. Trabalho no desenvolvimento de sites responsivos, interativos, dinâmicos e funcionais, tendo como base na construção desses sites tecnologias como <b>JavaScript</b>, <b>CSS</b>, <b>HTML</b>, <b>Bootstrap</b>, <b>Git</b>, <b>GitHub</b> e <B>Figma.</B> Sempre correndo atrás de novos aprendizados, aprimoramento e tecnologias, pois sei que estou apenas no começo e que tenho um longo caminho a percorrer para alcançar minha primeira experiencia e conseguir mostrar todo meu potencial. Então no momento estou em busca de mostra todo o meu desenvolvimento nesse processo.</p>
 
   ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=htppsvitor&show_icons=true&theme=gotham)
 
