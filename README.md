@@ -39,9 +39,9 @@
 <div displey="flex" align="center">
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htppsvitor&repo=portif-lio&theme=gotham)](https://github.com/htppsvitor/Portif-lio)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htppsvitor&repo=Pokedex&theme=gotham)](https://github.com/htppsvitor/Pokedex)
-  </br>
-  </br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htppsvitor&repo=funpage-the_owl_house&theme=gotham)](https://github.com/htppsvitor/funpage-the_owl_house)
+  </br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htppsvitor&repo=LinkMy&theme=gotham)](https://github.com/htppsvitor/LinkMy)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htppsvitor&repo=Newspaper&theme=gotham)](https://github.com/htppsvitor/Newspaper)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htppsvitor&repo=Pokedex&theme=gotham)](https://github.com/htppsvitor/Pokedex)
 </div>
