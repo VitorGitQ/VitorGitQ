@@ -10,7 +10,7 @@
 
 ## 👨🏽‍💻Sobre Mim
 <div displey="flex" height="100" width="100">
-  <p >Sou formado em Tecnologia da informação pelo Instituto Federal da Bahia, e atualmente trabalho na área de Desenvolvimento Web com linguagens, bibliotecas e frameworks como JavaScript, HTML e CSS, Bootstrap, Sass, Node.js, C#, .NET, Figma. Além de possuir requisitos que vão além dos conhecimentos gerais no mundo da tecnologia, possuo um trabalho altruísta, pontual e eficaz, estando sempre disposto reconhecer meus pontos fracos para evolui-los e assim me tornar um profissional mais preparado, e pronto para novos cenários.</p>
+  <p >Sou formado em Tecnologia da informação pelo Instituto Federal da Bahia, e atualmente trabalho na área de Desenvolvimento Web com linguagens, bibliotecas e frameworks como JavaScript, HTML e CSS, Bootstrap, Figma, Sass, Node.js, C#, .NET, SQL Server. Além de possuir requisitos que vão além dos conhecimentos gerais no mundo da tecnologia, possuo um trabalho altruísta, pontual e eficaz, estando sempre disposto reconhecer meus pontos fracos para evolui-los e assim me tornar um profissional mais preparado, e pronto para novos cenários.</p>
 
   ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGitQ&show_icons=true&theme=gotham)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgitq&layout=compact&show_icons=true&theme=gotham)](https://github.com/vitorgitq/github-readme-stats)
@@ -38,7 +38,7 @@
     <img align="center" alt="git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="c#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-    <img align="center" alt="sql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="sql" height="40" width="50" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png">
   </div>
 </div>
 
